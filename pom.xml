@@ -1207,9 +1207,6 @@
                     <value>github</value>
                 </property>
                 <activeByDefault>true</activeByDefault>
-                <property>
-                    <name>!INFRASTRUCTURE</name>
-                </property>
             </activation>
 
             <properties>
